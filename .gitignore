@@ -1,0 +1,16 @@
+# OS/editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local scratch files
+*.tmp
+*.bak
+*.draft
+
+# Generated exports
+*.pdf
+*.docx
+*.pptx
+*.xlsx
